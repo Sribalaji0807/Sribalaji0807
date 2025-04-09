@@ -1,6 +1,7 @@
-# Hi there Iam Sribalaji
-
-<img src="https://ik.imagekit.io/ej9ydxqpz/github%20img.webp?updatedAt=1744208106869" alt="Anime Developer" width="300" />
+<h1 style="display:flex;justify-content:center">Hi There I am Sribalaji</h1>
+<div style="display:flex;justify-content:center;margin-bottom:10px">
+<img src="https://ik.imagekit.io/ej9ydxqpz/github%20img.webp?updatedAt=1744208106869" alt="Anime Developer" width="300"  />
+</div>
 
 🎓 I'm a Computer Science Fresher  
 💻 MERN Stack & Java Developer  
